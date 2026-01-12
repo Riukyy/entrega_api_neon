@@ -1,0 +1,4 @@
+psql 'postgresql://neondb_owner:npg_Hfh6NTFGBWL7@ep-dark-shape-acle46pb-pooler.sa-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require'
+
+f7a3b9c2e6d84a1f92b0c5e47d8a6f3b1c9e5a7d0f24b68c91e3d8a5f0c7b42
+
